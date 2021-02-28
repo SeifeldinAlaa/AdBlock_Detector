@@ -1,0 +1,1 @@
+window.adblockEnabled = "file:///C:/Users/user/Documents/Development/Samples/index.html"
